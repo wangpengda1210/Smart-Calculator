@@ -1,0 +1,13 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: val regex = TODO()
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10725#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/10725#comment">JetBrains
+    Academy</a></html>
+  time: Tue, 10 Nov 2020 01:58:11 UTC
+record: -1

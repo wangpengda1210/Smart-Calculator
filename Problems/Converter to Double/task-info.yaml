@@ -1,0 +1,19 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun convertStringToDouble(input: String): Double {
+        /**
+        * It returns a double value or 0 if an exception occurred
+        */
+        return input.toDouble()
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10628#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/10628#comment">JetBrains
+    Academy</a></html>
+  time: Tue, 10 Nov 2020 00:59:59 UTC
+record: -1

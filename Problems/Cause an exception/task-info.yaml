@@ -1,0 +1,16 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        // Write some code to cause an exception
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7247#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/7247#comment">JetBrains
+    Academy</a></html>
+  time: Tue, 10 Nov 2020 00:24:44 UTC
+record: -1
